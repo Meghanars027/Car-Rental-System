@@ -1,0 +1,20 @@
+1. Open XAMPP then start Apache and MySQL. 
+
+2. Insert the project folder to htdocs inside XAMPP folder in your drive (C:\xampp\htdocs\Car-Rental-Portal-Using-PHP-and-MySQL-V-3.0)
+
+3. Then in chrome run localhost:Car-Rental-Portal-Using-PHP-and-MySQL-V-3.0/
+	(http://localhost/Car-Rental-Portal-Using-PHP-and-MySQL-V-3.0/)
+
+4. ADMIN LOGIN:
+		user id:- admin
+		password:- m27
+
+5. USER LOGIN:
+		user id:- test
+		password:- Test@123
+
+		user id:- madhu
+		password:- Madhu@123
+
+
+		
